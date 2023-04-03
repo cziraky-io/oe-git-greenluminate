@@ -13,3 +13,11 @@ d, clone is remote copies
 a, Develop Softwares and Operation pipelines
 b, Development, Security and Operations
 c, Development in Seconds for Operation teams
+
+4. Is Github for team development?
+a, yes
+b, no
+
+5. Is TFS good for multibranching?
+a, no
+b, yes
